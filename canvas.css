@@ -1,0 +1,56 @@
+table {
+	font-family: 'Verdana', Arial, sans-serif;
+	font-size: 11px;
+	
+}
+
+thead {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+input {
+	width: 50px;
+}
+.slabel {
+	width: 150px;
+}
+
+.snumber {
+	width: 50px;
+}
+
+#canvasImg {
+	float: left;
+}
+
+#numbers {
+	float: left;
+}
+
+.button {
+	font-family: 'Verdana', Arial, sans-serif;
+	text-transform: uppercase;
+color: #00709f;
+background: rgb();
+cursor: pointer;
+padding-left: 3px;
+padding-right: 3px;
+font-size: 11px;
+margin-left: 8px;
+margin-right: 8px;
+margin-bottom: 6px;
+color: white;
+padding-left: 3px;
+padding-right: 3px;
+border-radius: 2px;
+background: #EC0F0F;
+}
+
+.ilabel {
+	font-family: 'Verdana', Arial, sans-serif;
+	font-size: 11px;
+}
+
+.template {
+	 background: #269FE5;
+}
