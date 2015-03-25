@@ -2,4 +2,4 @@
 
 > make radars
 
-go to: http://onside.github.io/radars
+go to: http://onside.github.io/Radars
